@@ -1,6 +1,7 @@
 [
-  { "name": "Animals", "icon": "paw", "color": "#FFCC00", "image": "https://raw.githubusercontent.com/selvaganapathi-coder/puzzle-game-images/main/images/categories/animals.png" },
-  { "name": "Nature", "icon": "leaf", "color": "#66CC66", "image": "https://raw.githubusercontent.com/selvaganapathi-coder/puzzle-game-images/main/images/categories/nature.png" },
+  { "name": "bird", "icon": "bird", "color": "#FFCC00", "image": "https://raw.githubusercontent.com/selvaganapathi-coder/puzzle-game-images/main/images/categories/birds.png" },
   { "name": "Vehicles", "icon": "car", "color": "#FF6666", "image": "https://raw.githubusercontent.com/selvaganapathi-coder/puzzle-game-images/main/images/categories/vehicles.png" },
-  { "name": "Fruits", "icon": "apple-alt", "color": "#FF9966", "image": "https://raw.githubusercontent.com/selvaganapathi-coder/puzzle-game-images/main/images/categories/fruits.png" }
+  { "name": "Fruits", "icon": "apple-alt", "color": "#FF9966", "image": "https://raw.githubusercontent.com/selvaganapathi-coder/puzzle-game-images/main/images/categories/fruits.png" },
+  { "name": "Animals", "icon": "paw", "color": "#FFCC00", "image": "https://raw.githubusercontent.com/selvaganapathi-coder/puzzle-game-images/main/images/categories/animals.png" },
+  { "name": "Nature", "icon": "leaf", "color": "#66CC66", "image": "https://raw.githubusercontent.com/selvaganapathi-coder/puzzle-game-images/main/images/categories/nature.png" }
 ]
