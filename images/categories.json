@@ -1,5 +1,5 @@
 [
-  { "name": "Bird", "icon": "bird", "color": "#FFCC00", "image": "https://raw.githubusercontent.com/selvaganapathi-coder/puzzle-game-images/main/images/categories/birds.webp" },
+  { "name": "Birds", "icon": "bird", "color": "#FFCC00", "image": "https://raw.githubusercontent.com/selvaganapathi-coder/puzzle-game-images/main/images/categories/birds.webp" },
   { "name": "Vehicles", "icon": "car", "color": "#FF6666", "image": "https://raw.githubusercontent.com/selvaganapathi-coder/puzzle-game-images/main/images/categories/vehicles.webp" },
   { "name": "Fruits", "icon": "apple-alt", "color": "#FF9966", "image": "https://raw.githubusercontent.com/selvaganapathi-coder/puzzle-game-images/main/images/categories/fruits.webp" },
   { "name": "Animals", "icon": "paw", "color": "#FFCC00", "image": "https://raw.githubusercontent.com/selvaganapathi-coder/puzzle-game-images/main/images/categories/animals.webp" },
